@@ -1,4 +1,4 @@
-str='1881'
+str='1881'.toLocaleLowerCase()
 revstrarr=[]
 for(let char of str){
     revstrarr.unshift(char)
